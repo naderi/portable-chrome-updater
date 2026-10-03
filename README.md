@@ -6,15 +6,7 @@ A small Windows program that downloads **Google Chrome** in the channels **Canar
 
 ## Download
 
-- **[Latest release](https://github.com/naderi/portable-chrome-updater/releases/latest)** – download `ChromeUpdater.exe`, put it into an empty folder where the browsers should go (e.g. `D:\Apps\Chrome`) and run it. No installation needed.
-- Or with [Scoop](https://scoop.sh):
-
-  ```
-  scoop bucket add naderi https://github.com/naderi/scoop-bucket
-  scoop install naderi/portable-chrome-updater
-  ```
-
-  With Scoop, keep **Create a folder for each version** switched on (the default): the version folders, the settings and the shared profile are kept across `scoop update`.
+**[Latest release](https://github.com/naderi/portable-chrome-updater/releases/latest)** – download `ChromeUpdater.exe`, put it into an empty folder where the browsers should go (e.g. `D:\Apps\Chrome`) and run it. No installation needed.
 
 **Requirements:** Windows 11 with .NET Framework 4.5 or later (preinstalled).
 
@@ -128,7 +120,6 @@ The updater updates itself from the [releases of this repository](https://github
 - Once a day it looks for a new version in the background (can be switched off in the about window: *Check automatically (once a day)*). If there is one, the ⓘ button gets an orange dot.
 - In the about window: *Check for updates* → *Download update* → *Restart & update*.
 - A download is only used if its signature (`.sig`) matches the key built into the program; anything else is rejected. The running EXE is renamed to `.old`, the new one takes its name, and the program restarts. `ChromeUpdater.ini` and all data next to it stay untouched.
-- Installed with Scoop, the program only points to `scoop update portable-chrome-updater`.
 
 ## Disclaimer
 
