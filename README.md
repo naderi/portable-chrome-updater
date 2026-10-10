@@ -129,4 +129,4 @@ This is an independent project. It is not affiliated with, endorsed or sponsored
 
 Freeware – free to use, but **not for sale**. See [LICENSE](LICENSE).
 
-© 2026 [Ali Naderi](https://github.com/naderi)
+© 2026 [Ali Naderi](https://github.com/naderi) · [digitalent.dev](https://digitalent.dev/en/)
