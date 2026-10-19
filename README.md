@@ -129,4 +129,12 @@ This is an independent project. It is not affiliated with, endorsed or sponsored
 
 Freeware – free to use, but **not for sale**. See [LICENSE](LICENSE).
 
+## Support
+
+If Portable Chrome Updater saves you time, you can support its development on Ko‑fi. ☕
+
+<a href='https://ko-fi.com/N7N123QIX0' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
+---
+
 © 2026 [Ali Naderi](https://github.com/naderi) · [digitalent.dev](https://digitalent.dev/en/)
